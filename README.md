@@ -1,12 +1,13 @@
 # How to do Research At the MIT AI Lab
 
-进度跟踪，完成了第二章阅读paper，第8章，编程。其他再说
+进度跟踪，完成了第二章阅读paper，第三章，如何建立联系；第8章，编程。其他再说
 
    * [How to do Research At the MIT AI Lab](#how-to-do-research-at-the-mit-ai-lab)
       * [Introduction 引言](#introduction-引言)
       * [Reading AI 阅读](#reading-ai-阅读)
-      * [3 Getting connected  建立联系](#3-getting-connected--建立联系)
-      * [8 Programming 关于编程](#8-programming-关于编程)
+      * [Getting connected  建立联系](#getting-connected--建立联系)
+      * [Learrning other fields](#learrning-other-fields)
+      * [Programming 关于编程](#programming-关于编程)
 
 
 October, 1988
@@ -52,10 +53,12 @@ The document is divided roughly in halves. The first several sections talk about
 2 is about getting grounded in AI by reading. It points at the most important journals and has some tips on how to read.
 
 第2节是关于通过阅读AI的知识。罗列了重要期刊和有一些如何阅读的小技巧。
+* [Reading AI 阅读](#reading-ai-阅读)
 
 3 is about becoming a member of the AI community: getting connected to a network of people who will keep you up to date on what's happening and what you need to read.
 
 3 是关于成为AI社区的成员：建立联系一个人脉网络，可以让您随时了解最新情况，您需要阅读的内容。
+* [Getting connected  建立联系](#getting-connected--建立联系)
 
 4 is about learning about fields related to AI. You'll want to have a basic understanding of several of these and probably in-depth understanding of one or two.
 
@@ -63,7 +66,7 @@ The document is divided roughly in halves. The first several sections talk about
 
 5 is about keeping a research notebook.
 
-5 是关于记录研究笔记本的。
+5 是关于记录研究笔记的。
 
 
 6 is about writing papers and theses; about writing and using comments on drafts; and about getting published.
@@ -72,11 +75,13 @@ The document is divided roughly in halves. The first several sections talk about
 
 7 is about giving research talks. 
 
-7 是关于进行研究讲座。
+7 是关于做研究讲座。
 
 8 is about programming. Al programming may be different from the sorts you're used to.
 
 8 是关于编程的。Al编程可能不同于你已经习惯了的编程
+* [Programming 关于编程](#programming-关于编程)
+
 
 9 is about the most important choice of your graduate career, that of your advisor. Different advisors have different styles; this section gives some heuristics for finding one who will suit you. An advisor is a resource you need to know how to use; this section tells you how.
 
@@ -166,53 +171,103 @@ Often someone will hand you a book or paper and exclaim that you should read it 
 经常有人会给你一本书或纸，然后大叫你应该阅读它，是因为它是（a）有史以来最辉煌的事物（或之一）（b）精确地适用于您自己的研究。通常，当您真正阅读它时，您会发现它不是特别出色，仅适用于模糊的情况。这可能令人困惑。“我有什么问题吗？我错过了什么吗？” 真相是，最常见的情况是通过激发您的朋友对您的研究主题他们脑子里已经形成了一条思路。偶然的阅读相关书籍或论文认为或多或少是对你有帮助。
 
 
-## 3 Getting connected  建立联系
+## Getting connected  建立联系
 
-After the first year or two, you'll have some idea of what subfield you are goifig to be working in. At this point-or even earlier-it's important to get plifged into the Secret Paper Passing Network. This informal organization is wheie all the action in AI really is. Trend-setting work eventually turns into published
+After the first year or two, you'll have some idea of what subfield you are goifig to be working in. At this point-or even earlier-it's important to get plifged into the Secret Paper Passing Network. 
 
-papers-but not until at least a year after the cool people know all about it. Which means that the cool people have a year's head start on working with new ideas.
+第一个一年或两年后，你将有一些想法，关于你将来要在哪个方面研究。在这时候-甚至更早-重要的是要加入秘密论文传递网络。
 
-How do the cool people find out about a new idea? Maybe they hear about it at a conference; but much more likely, they got it through the Secret Paper Passing Network. Here's how it works. Jo Cool gets a good idea. She throws together a half-assed implementation and it sort of works, so she writes a draft paper about it. She wants to know whether the idea is any good, so she sends copies to ten friends and asks them for comments on it. They think it's cool, so as well as telling Jo what's wrong with it, they lend copies to their friends to Xerox. Their friends lend copies to their friends, and so on. Jo revises it a bunch a few months later and sends it to AAAI. Six months later, it first appears in print in a cut-down fivepage version (all that the AAAI proceedings allow). Jo eventually gets around to cleaning up the program and writes a longer revised version (based on the feedback on the AAAI version) and sends it to the AI Journal. AIJ has almost two years turn-around time, what with reviews and revisions and publication delay, so Jo's idea finally appears in a journal form three years after she had it-and almost that long after the cool people first found out about it. So cool people hardly ever learn about their subfield from published journal articles; those come out too late.
+This informal organization is wheie all the action in AI really is. Trend-setting work eventually turns into published papers-but not until at least a year after the cool people know all about it. Which means that the cool people have a year's head start on working with new ideas.
+
+这个非正式的组织是AI的真正的情形。酷人们知道了这一切之后至少一年，引领潮流的工作才最终变成了出版论文。这意味着很酷的人有一年的时间开始使用新的想法。
+
+
+How do the cool people find out about a new idea? Maybe they hear about it at a conference; but much more likely, they got it through the Secret Paper Passing Network. 
+
+酷人如何发现新想法？也许他们在会议；但更有可能的是，他们通过秘密论文传递网络。
+
+Here's how it works. Jo Cool gets a good idea. She throws together a half-assed implementation and it sort of works, so she writes a draft paper about it. She wants to know whether the idea is any good, so she sends copies to ten friends and asks them for comments on it. 
+
+方式如下。Jo Cool有个好主意。她把一个半途而废的实现及其工作，所以她写了一篇有关它的草稿。她想知道这个主意是否有正确，所以她将副本发送给十个朋友，并要求他们对此发表评论。
+
+They think it's cool, so as well as telling Jo what's wrong with it, they lend copies to their friends to Xerox. Their friends lend copies to their friends, and so on. Jo revises it a bunch a few months later and sends it to AAAI. Six months later, it first appears in print in a cut-down fivepage version (all that the AAAI proceedings allow). 
+
+他们认为这很酷，并且告诉Jo哪里有问题，他们将副本借给朋友复印。他们的朋友们将副本借给他们的朋友复印，依此类推。几个月后，乔对它进行了修改并将其发送给AAAI。六个月后，它首先以缩小版的五个字出现在印刷版中（AAAI程序允许的所有版本）。
+
+Jo eventually gets around to cleaning up the program and writes a longer revised version (based on the feedback on the AAAI version) and sends it to the AI Journal. AIJ has almost two years turn-around time, what with reviews and revisions and publication delay, so Jo's idea finally appears in a journal form three years after she had it-and almost that long after the cool people first found out about it. So cool people hardly ever learn about their subfield from published journal articles; those come out too late.
+
+
+乔最终到处在清理程序并编写更长的修订版本（基于反馈（在AAAI版本上）阶段，并将其发送到AI Journal。AIJ已经将要花两年，评论和修订以及发布延迟的原因，所以Jo's想法发表三年后，她的想法终于出现在期刊中了-几乎很酷的人们第一次发现它后三年。酷人几乎不会从已发表的期刊文章中了解其子领域；那些也出来晚了。
 
 You, too, can be a cool people. Here are some heuristics for getting connected:
 
+你也可以成为一个很酷的人。以下是一些建立联系的启发式方法
+
 * There's a bunch of electronic mailing lists that discuss Al subfields like connectionism or vision. Get yourself on the ones that seem interesting.
 
-* Whenever you talk about an idea you've had with someone who knows the field, they are likely not to give an evaluation of your idea, but to say, "Have you read X?" Not a test question, but a suggestion about something to read that will probably be relevant. If you haven't read X, get the full reference
+一堆电子邮件列表讨论了Al子领域，例如连接主义或计算机视觉。让自己加入到一些列表。
 
-from your interlocutor, or better yet, ask to borrow and Xerox his copy.
+* Whenever you talk about an idea you've had with someone who knows the field, they are likely not to give an evaluation of your idea, but to say, "Have you read X?" Not a test question, but a suggestion about something to read that will probably be relevant. If you haven't read X, get the full reference from your interlocutor, or better yet, ask to borrow and Xerox his copy.
+
+当您谈论与某个认识领域，他们可能不会对您的想法进行评估，而是说：“您读过X吗？”。这不是反问句，而是关于阅读内容的建议。如果您还没有阅读X，请获取完整的参考从您的对话者那里，或者更好的情况下，要求得到副本。
 
 * When you read a paper that excites you, make five copies and give them to people you think will be interested in it. They'll probably return the favor.
 
-* The lab has a number of on-going informal paper discussion groups on various subfields. These meet every week or two to discuss a paper that everyone has read. *oSome people don't mind if you read their desks. That is, read the papers that they intend to read soon are heaped there and turn over pretty regularly. You can look over them and see if there's anything that looks interesting. Be sure to ask before doing this; some people do mind. Try people who seem friendly and connected.
+阅读使您兴奋的论文时，请复印五份并交给您认为会对此感兴趣的人。他们可能会回馈你。
+
+* The lab has a number of on-going informal paper discussion groups on various subfields. These meet every week or two to discuss a paper that everyone has read. 
+
+实验室有许多正在进行的非正式论文讨论小组。这些会议每周或每两周开会，讨论每个人已阅读的论文。
+
+*Some people don't mind if you read their desks. That is, read the papers that they intend to read soon are heaped there and turn over pretty regularly. You can look over them and see if there's anything that looks interesting. Be sure to ask before doing this; some people do mind. Try people who seem friendly and connected.
+
+些人不介意您看他们的书桌。也就是说，阅读论文他们打算阅读，很快就会堆在那里，并定期翻阅。您可以查看它们，看看是否有任何有趣的东西。在执行此操作之前，请务必先询问。有些人还是很在意。试试看似友好的人联系。
 
 a Similarly, some people don't mind your browsing their filing cabinets. There are people in the lab who are into scholarship and whose cabinets are quite comprehensive. This is often a faster and more reliable way to find papers than using the school library.
 
+同样，有些人不介意您浏览文件柜。那里是实验室里有奖学金的人，他们的橱柜相当全面。这通常是一种更快，更可靠的论文查找方式而不是使用学校图书馆。
+
 * Whenever you write something yourself, distribute copies of a draft of it to people who are likely to be interested. (This has a potential problem: plagiarism is rare in AI, but it does happen. You can put something like "Please do not photocopy or quote" on the front page as a partial prophylactic.) Most people don't read most of the papers they're given, so don't take it personally when only a few of the copies you distribute come back with comments on them. If you go through several drafts-which for a journal article you should-few readers will read more than one of them. Your advisor is expected to be an exception.
+
+当您自己写东西时，分发它的草稿副本给可能感兴趣的人。（这有潜在的问题：AI盗窃在AI中很少见，但确实会发生。你可以放“请不要复印或引用”一些东西在首页上）大多数人不会阅读他们收到的大多数论文，所以不要当您分发的副本中只有几本回来时带有他们的评论，不要在意。想象一下，如果您要看几份草稿（这很花时间），只有很少的读者会读一篇以上。您的导师将是一个例外。
 
 * When you finish a paper, send copies to everyone you think might be interested. Don't assume they'll read it in the journal or proceedings spontaneously. Internal publication series (memos and technical reports) are even less likely to be read.
 
+完成论文后，将副本发送给您认为可能会感兴趣的每个人。不要以为他们会在期刊中阅读它，内部出版物（备忘和技术报告）甚至不太可能被阅读。
+
 * The more different people you can get connected with, the better. Try to swap papers with people from different research groups, different Al labs, different academic fields. Make yourself the bridge between two groups of interesting people working on related problems who aren't talking to each other and suddenly reams of interesting papers will flow across your desk.
 
-* When a paper cites something that looks interesting, make a note of it. Keep a log of interesting references. Go to the library every once in a while and look the lot of them up. You can intensively work backward through a
+与您建立联系的人越多越好。尝试与来自不同研究小组，不同AI实验室的人交换论文，不同的学术领域。让自己成为两个正在与相关问题打交道但是并不沟通小组之间的桥梁的人，然后成堆的其他有趣论文会在您的办公桌上流淌。
 
-"reference graph" of citations when you are hot on the trail of an interesting topic. A reference graph is a web of citations: paper A cites papers B
+* When a paper cites something that looks interesting, make a note of it. Keep a log of interesting references. Go to the library every once in a while and look the lot of them up. You can intensively work backward through a "reference graph" of citations when you are hot on the trail of an interesting topic. 
 
-and C, B cites C and D, C cites D, and so on. Papers that you notice cited frequently are always worth reading. Reference graphs have weird properties. One is that often there are two groups of people working on the same topic who don't know about each other. You may find yourself close to closure on searching a graph and suddenly find your way into another whole section. This happens when there are different schools or approaches. It's very valuable to understand as many approaches as possible-often more so than understanding one approach in greater depth.
+当一篇论文引用了一些有趣的内容时，请记录下来。保留有趣的参考记录。偶尔去图书馆并查看其中的很多内容。当你对一个有趣的话题非常感兴趣时，你可以通过引用的“参考图”来深入研究。
 
-* Hang out. Talk to people. Tell them what you're up to and ask what they're doing. (If you're shy about talking to other students about your ideas, say because you feel you haven't got any, then try talking to them about the really good-or unbelievably foolish-stuff you've been reading. This leads
 
-naturally into the topic of what one might do next.) There's an informal lunch group that meets in the seventh floor playroom around noon every day. People tend to work nights in our lab, and so go for dinner in loose groups. Invite yourself along.
+A reference graph is a web of citations: paper A cites papers B and C, B cites C and D, C cites D, and so on. Papers that you notice cited frequently are always worth reading. Reference graphs have weird properties. One is that often there are two groups of people working on the same topic who don't know about each other. You may find yourself close to closure on searching a graph and suddenly find your way into another whole section. This happens when there are different schools or approaches. It's very valuable to understand as many approaches as possible-often more so than understanding one approach in greater depth.
+
+参考图形是引用的网页：论文A引用论文B和C，B引用C和D，C引用D，等等。您注意到的论文经常被引用总是值得一读。参考图有很奇怪属性。一是通常有两组在彼此不认识的人在处理同一个话题。您可能会发现自己接近搜索图时突然发现自己进入另一大块东西。特别是不同的学校或方法是，就会发生这种情况。了解尽可能多的方法往往比更深入地了解一种方法更有价值。
+
+* Hang out. Talk to people. Tell them what you're up to and ask what they're doing. (If you're shy about talking to other students about your ideas, say because you feel you haven't got any, then try talking to them about the really good-or unbelievably foolish-stuff you've been reading. This leads naturally into the topic of what one might do next.) There's an informal lunch group that meets in the seventh floor playroom around noon every day. People tend to work nights in our lab, and so go for dinner in loose groups. Invite yourself along.
+
+出去玩。与人交谈。告诉他们你在做什么，问他们在做什么。（如果您不愿意与其他学生谈论您的想法，请说因为您觉得自己一无所有，然后尝试与他们讨论有关你读到的非常好或令人难以置信的愚蠢的东西。这导致自然而然地成为下一步的话题。）
+
+每天中午在七楼游戏室举行的非正式午餐会。人们倾向于在我们的实验室里上夜班，所以零散地去吃晚餐。邀请自己加入进去。
 
 * If you interact with outsiders much-giving demos or going to conferencesget a business card. Make it easy to remember your name.
 
+如果您大量与外部人进行互动，进行演示或参加会议，准备一张名片。让人轻松记住您的名字
+
 * At some point you'll start going to scientific conferences. When you do, you will discover fact that almost all the papers presented at any conference are boring or silly. (There are interesting reasons for this that aren't relevant here.) Why go to them then? To meet people in the world outside your lab. Outside people can spread the news about your work, invite you to give talks, tell you about the atmosphere and personalities at a site, introduce you to people, help you find a summer job, and so forth. How to meet people? Walk up to someone whose paper you've liked, say "I really liked your paper", and ask a question.
 
-* Get summer jobs away at other labs. This gives you a whole new pool of people to get connected with who probably have a different way of looking at things. One good way to get summer jobs at other labs is to ask senior grad students how. They're likely to have been places that you'd want to go and can probably help you make the right connections. 4
+在某个时候，您将开始参加科学会议。当你这么做的时候，你将发现以下事实：在任何会议上发表的几乎所有论文都是无聊或愚蠢的。（有一些有趣的原因但与此无关。）那为什么要去参加呢？在实验室之外认识世界上的其他人。外界人士可以传播有关您工作的新闻，邀请您演讲，告诉您现场气氛和个性，介绍您给其他人，帮助您找到暑假的工作，等等。如何遇见人？走到你喜欢的论文的人那里，说“我真的很喜欢您的论文”，并提出一个问题。
 
-Learrning
+* Get summer jobs away at other labs. This gives you a whole new pool of people to get connected with who probably have a different way of looking at things. One good way to get summer jobs at other labs is to ask senior grad students how. They're likely to have been places that you'd want to go and can probably help you make the right connections. 
 
-other fields
+在其他实验室获得暑假工作。这为您提供了全新的与可能与众不同的建立联系。在其他实验室获得暑期工作的一个好方法是请高年级研究生如何。他们可能曾经是您想要的地方工作过，可以帮助您建立正确的联系。
+
+
+## Learrning other fields
 
 It used to be the case that you could do AI without knowing anything except AI, and some people still seem to do that. But increasingly, good research requires that you know a lot about several related fields. Computational feasibility by itself doesn't provide enough constraint on what intelligence is about. Other related fields give other forms of constraint, for example experimental data, which you can get from psychology. More importantly, other fields give you new tools for thinking and new ways of looking at what intelligence is about. Another reason
 
@@ -438,7 +493,7 @@ Some key things to remember in planning and delivering a talk:
 
 * AI talks are usually accompanied by overhead transparencies, otherwise known as "slides". They should be kept simple. Use few words and big type. If you can't easily read your slides when you are standing and they are on the floor, they're too small. Draw pictures whenever possible. Don't stand in front of the screen. Don't point at the overhead if it is possible to point directly at the screen. If you must point at the overhead, don't actually touch the transparency since you will make it jerk around.
 
-## 8 Programming 关于编程
+## Programming 关于编程
 
 Not every AI thesis involves code, and there are important people in AI who have never written a significant program, but to a first approximation you have to be able to program to do AI. Not only does most AI work involve writing programs, but learning to program gives you crucial intuitions into what is and isn't computationally feasible, which is the major source of constraint AI contributes to cognitive science.
 
