@@ -2,6 +2,12 @@
 
 进度跟踪，完成了第二章阅读paper，第8章，编程。其他再说
 
+   * [How to do Research At the MIT AI Lab](#how-to-do-research-at-the-mit-ai-lab)
+      * [Introduction 引言](#introduction-引言)
+      * [Reading AI 阅读](#reading-ai-阅读)
+      * [3 Getting connected  建立联系](#3-getting-connected--建立联系)
+      * [8 Programming 关于编程](#8-programming-关于编程)
+
 
 October, 1988
 
@@ -502,6 +508,7 @@ The other reason is that AI programs are usually thrown together in a hurry with
 Like papers, programs can be over-polished. Rewriting code till it's perfect, making everything maximally abstract, writing macros and libraries, and playing with operating system internals has sucked many people out their theses and out of the field. (On the other hand, maybe that's what you really wanted to be doing for a living anyway.)
 
 像论文一样，编程可能会被过度抛光。重写代码直到完美，使所有内容最大化抽象，编写宏和库，然后和操作系统内部组件的交互会吸引了很多人偏离自己的方向甚至领域的。（另一方面，也许这就是您真正想做的谋生。）
+
 
 9
 
