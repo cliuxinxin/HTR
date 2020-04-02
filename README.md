@@ -6,8 +6,15 @@
       * [Introduction 引言](#introduction-引言)
       * [Reading AI 阅读](#reading-ai-阅读)
       * [Getting connected  建立联系](#getting-connected--建立联系)
-      * [Learrning other fields](#learrning-other-fields)
+      * [Learrning other fields 学习其他领域](#learrning-other-fields-学习其他领域)
+      * [Notebooks 记笔记](#notebooks-记笔记)
+      * [Writing 写作](#writing-写作)
+      * [Talks 演讲](#talks-演讲)
       * [Programming 关于编程](#programming-关于编程)
+      * [Advisors 导师](#advisors-导师)
+      * [The thesis 论文](#the-thesis-论文)
+      * [Research methodology 研究方法论](#research-methodology-研究方法论)
+      * [Emotional factors 情感因素](#emotional-factors-情感因素)
 
 
 October, 1988
@@ -63,19 +70,23 @@ The document is divided roughly in halves. The first several sections talk about
 4 is about learning about fields related to AI. You'll want to have a basic understanding of several of these and probably in-depth understanding of one or two.
 
 4 是关于学习与AI相关领域的知识。您将需要一个基本或深入的了解一个或两个。
+* [Learrning other fields 学习其他领域](#learrning-other-fields-学习其他领域)
 
 5 is about keeping a research notebook.
 
 5 是关于记录研究笔记的。
+* [Notebooks 记笔记](#notebooks-记笔记)
 
 
 6 is about writing papers and theses; about writing and using comments on drafts; and about getting published.
 
 6 是关于写论文和论文；关于撰写和使用评论草稿 以及有关发布的信息。
+* [Writing 写作](#writing-写作)
 
 7 is about giving research talks. 
 
-7 是关于做研究讲座。
+7 是关于做研究演讲的。
+* [Talks 演讲](#talks-演讲)
 
 8 is about programming. Al programming may be different from the sorts you're used to.
 
@@ -86,18 +97,22 @@ The document is divided roughly in halves. The first several sections talk about
 9 is about the most important choice of your graduate career, that of your advisor. Different advisors have different styles; this section gives some heuristics for finding one who will suit you. An advisor is a resource you need to know how to use; this section tells you how.
 
 9 是您的毕业生职业最重要的选择，导师。不同的导师有不同的风格。本节给出了一些寻找适合您的的导师启发式方法。导师是您的资源，本节将告诉你如何使用你的导师。
+* [Advisors 导师](#advisors-导师)
 
 10 is about theses. Your thesis, or theses, will occupy most of your time during most of your graduate student career. The section gives advice on choosing a topic and avoiding wasting time.
 
 10是关于论文的。您的论文或论文将占用您研究生职业大部分时间在。本节提供有关的建议选择主题并避免浪费时间。
+* [The thesis 论文](#the-thesis-论文)
 
 11 is on research methodology. This section mostly hasn't been written yet. 
 
 11 是研究方法论。本节大部分尚未编写。
+* [Research methodology 研究方法论](#research-methodology-研究方法论)
 
 12 is perhaps the most important section: it's about emotional factors in the process of research. It tells how to deal with failure, how to set goals, how to get unstuck, how to avoid insecurity, maintain self-esteem, and have fun in the process.
 
 12 也许是最重要的部分：它涉及到情感因素研究过程。它讲述了如何处理失败，如何设定目标，如何摆脱困境，如何避免不安全感，保持自尊心并拥有在这个过程中很有趣。
+* [Emotional factors 情感因素](#emotional-factors-情感因素)
 
 This document is still in a state of development; we welcome contributions and comments. Some sections are very incomplete. [Annotations in brackets and italics indicate some of the major incompletions.] We appreciate contributions; send your ideas and comments to ZvonaQai.ai. mit. edu.
 
@@ -267,7 +282,7 @@ A reference graph is a web of citations: paper A cites papers B and C, B cites C
 在其他实验室获得暑假工作。这为您提供了全新的与可能与众不同的建立联系。在其他实验室获得暑期工作的一个好方法是请高年级研究生如何。他们可能曾经是您想要的地方工作过，可以帮助您建立正确的联系。
 
 
-## Learrning other fields
+## Learrning other fields 学习其他领域
 
 It used to be the case that you could do AI without knowing anything except AI, and some people still seem to do that. But increasingly, good research requires that you know a lot about several related fields. Computational feasibility by itself doesn't provide enough constraint on what intelligence is about. Other related fields give other forms of constraint, for example experimental data, which you can get from psychology. More importantly, other fields give you new tools for thinking and new ways of looking at what intelligence is about. Another reason
 
@@ -331,9 +346,7 @@ MIT is of the analytical sort, and of a school that has been heavily influenced 
 
 This all seems like a lot to know about, and it is. There's a trap here: thinking "if only I knew more X, this problem would be easy," for all X. There's always more to know that could be relevant. Eventually you have to sit down and solve the problem.
 
-5
-
-Notebooks
+## Notebooks 记笔记
 
 Most scientists keep a research notebook. You should too. You've probably been told this in every science class since fifth grade, but it's true. Different systems work for different people; experiment. You might keep it online or in a spiral notebook or on legal pads. You might want one for the lab and one for home.
 
@@ -345,7 +358,7 @@ What you put in your notebook can often serve as the backbone of a paper. This m
 
 You may find useful Vera Johnson-Steiner's book Notebooks of the Mind, which, though mostly not literally about notebooks, describes the ways in which creative thought emerges from the accumulation of fragments of ideas. 6
 
-Writing
+## Writing 写作
 
 There's a lot of reasons to write.
 
@@ -449,9 +462,7 @@ are going to be working with the people whose papers you review as part of a com
 
 a form from the Publications Office (just off the eighth floor playroom) and getting two faculty members to sign it. Like all else in research, paper writing always takes a lot longer than you expect. Papers for publication have a particularly insidious form of this disease, however. After you finally finish a paper, you send it in for publication. Many months later it comes back with comments, and you have to revise it. Then months after that the proofs come back for correction. If you publish several forms of the paper, like a short conference version and a long journal version, this maygo through several rounds. The result is that you are still working on a paper years after you thought you were through with it and after the whole topic has become utterly boring. This suggests a heuristic: don't do some piece of research you don't care for passionately on the grounds that it won't be hard to get a publication out of it: the pain will be worse than you expect.
 
-7
-
-Talks
+## Talks 演讲
 
 Talks are another form of communication with your colleagues, and most of what we said about writing is true of talking also. An ability to stand in front of an audience and give a talk that doesn't make the audience fall asleep is crucial for success in terms of recognition, respect and eventually a job. Speaking ability is not innate--you can start out graduate life as a terrible public speaker and end up as a sparkling wit so long as you practice, practice, practice, by actually giving talks to groups of people.
 
@@ -565,9 +576,7 @@ Like papers, programs can be over-polished. Rewriting code till it's perfect, ma
 像论文一样，编程可能会被过度抛光。重写代码直到完美，使所有内容最大化抽象，编写宏和库，然后和操作系统内部组件的交互会吸引了很多人偏离自己的方向甚至领域的。（另一方面，也许这就是您真正想做的谋生。）
 
 
-9
-
-Advisors
+## Advisors 导师
 
 At MIT there are two kinds of advisors, academic advisors and thesis advisors.
 
@@ -625,9 +634,7 @@ It is possible that you will encounter racist, sexist, heterosexist, or other ha
 
 Some students in the lab are only nominally supervised by a thesis advisor. This can work out well for people who are independent self-starters. It has the advantage that you have only your own neuroses to deal with, not your advisor's as well. But it's probably not a good idea to go this route until you've completed at least one supervised piece of work, and unless you are sure you can do without an advisor and have a solid support network.
 
-10
-
-The thesis
+## The thesis 论文
 
 Your thesis, or theses, will occupy most of your time during most of your career as a graduate student. The bulk of that time will be devoted to research, or even to choosing a topic, rather than to the actual writing.
 
@@ -689,9 +696,7 @@ There is a well-understood phenomenon known as "thesis avoidance," whereby you s
 
 of getting out of working on one's thesis. Be aware that's what you are doing. (This document is itself an example of thesis avoidance on the part of its authors.)
 
-11
-
-Research methodology
+## Research methodology 研究方法论
 
 [This section is weak. Please contribute!] A research methodology defines what the activity of research is, how to proceed, how to measure progress, and what constitutes success. Al methodology is a jumbled mess. Different methodologies define distinct schools which wage religious wars against each other.
 
@@ -701,9 +706,7 @@ Some work is like science. You look at how people learn arithmetic, how the brai
 
 Methodologies are social. Read how other people attacked similar problems, and talk to people about how they proceeded in specific cases.
 
-12
-
-Emotional factors
+## Emotional factors 情感因素
 
 Research is hard. It is easy to burn out on it. An embarrassingly small fraction of students who start PhD programs in AI finish. AT MIT, almost all those who do not finish drop out voluntarily. Some leave because they can make more money in industry, or for personal reasons; the majority leave out of frustration with their theses. This section tries to explain how that can happen and to give some heuristics that may help. Forewarned is forearmed: mostly it's useful to know that the particular sorts of tragedies, aggravations, depressions and triumphs you go through in research are necessary parts of the process, and are shared with everyone else who does it.
 
