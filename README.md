@@ -1,20 +1,30 @@
 # How to do Research At the MIT AI Lab
 
-进度跟踪，完成了第二章阅读paper，第三章，如何建立联系；第8章，编程。其他再说
 
    * [How to do Research At the MIT AI Lab](#how-to-do-research-at-the-mit-ai-lab)
-      * [Introduction 引言](#introduction-引言)
-      * [Reading AI 阅读](#reading-ai-阅读)
-      * [Getting connected  建立联系](#getting-connected--建立联系)
+      * [Introduction 引言](#introduction-引言)（完成）
+      * [Reading AI 阅读](#reading-ai-阅读)（完成）
+      阅读AI的知识。罗列了重要期刊和有一些如何阅读的小技巧。
+      * [Getting connected  建立联系](#getting-connected--建立联系)（完成）
+      成为AI社区的成员：建立联系一个人脉网络，可以让您随时了解最新情况，您需要阅读的内容。
       * [Learrning other fields 学习其他领域](#learrning-other-fields-学习其他领域)
+      学习与AI相关领域的知识。您将需要一个基本或深入的了解一个或两个er fields 学习其他领域]
       * [Notebooks 记笔记](#notebooks-记笔记)
+      记录研究笔记的
       * [Writing 写作](#writing-写作)
+      写论文和论文；关于撰写和使用评论草稿 以及有关发布的信息。
       * [Talks 演讲](#talks-演讲)
-      * [Programming 关于编程](#programming-关于编程)
+      做研究演讲的。
+      * [Programming 关于编程](#programming-关于编程)（完成）
+      Al编程可能不同于你已经习惯了的编程
       * [Advisors 导师](#advisors-导师)
+      研究生职业最重要的选择，导师。不同的导师有不同的风格。本节给出了一些寻找适合您的的导师启发式方法。导师是您的资源，本节将告诉你如何使用你的导师。
       * [The thesis 论文](#the-thesis-论文)
-      * [Research methodology 研究方法论](#research-methodology-研究方法论)
+      您的论文或论文将占用您研究生职业大部分时间在。本节提供有关的建议选择主题并避免浪费时间。
+      * [Research methodology 研究方法论](#research-methodology-研究方法论)（完成）
+      研究方法论。本节大部分尚未编写。
       * [Emotional factors 情感因素](#emotional-factors-情感因素)
+      它涉及到情感因素研究过程。它讲述了如何处理失败，如何设定目标，如何摆脱困境，如何避免不安全感，保持自尊心并拥有在这个过程中很有趣。
 
 
 October, 1988
@@ -69,9 +79,9 @@ The document is divided roughly in halves. The first several sections talk about
 
 4 is about learning about fields related to AI. You'll want to have a basic understanding of several of these and probably in-depth understanding of one or two.
 
-4 是关于学习与AI相关领域的知识。您将需要一个基本或深入的了解一个或两个。
-* [Learrning other fields 学习其他领域](#learrning-other-fields-学习其他领域)
-
+4 是关于学习与AI相关领域的知识。您将需要一个基本或深入的了解一个或两个er fields 学习其他领域](#learrning-other-fields-学习其他领域)
+。
+* [Learrning oth
 5 is about keeping a research notebook.
 
 5 是关于记录研究笔记的。
@@ -96,7 +106,7 @@ The document is divided roughly in halves. The first several sections talk about
 
 9 is about the most important choice of your graduate career, that of your advisor. Different advisors have different styles; this section gives some heuristics for finding one who will suit you. An advisor is a resource you need to know how to use; this section tells you how.
 
-9 是您的毕业生职业最重要的选择，导师。不同的导师有不同的风格。本节给出了一些寻找适合您的的导师启发式方法。导师是您的资源，本节将告诉你如何使用你的导师。
+9 是您的研究生职业最重要的选择，导师。不同的导师有不同的风格。本节给出了一些寻找适合您的的导师启发式方法。导师是您的资源，本节将告诉你如何使用你的导师。
 * [Advisors 导师](#advisors-导师)
 
 10 is about theses. Your thesis, or theses, will occupy most of your time during most of your graduate student career. The section gives advice on choosing a topic and avoiding wasting time.
@@ -700,11 +710,31 @@ of getting out of working on one's thesis. Be aware that's what you are doing. (
 
 [This section is weak. Please contribute!] A research methodology defines what the activity of research is, how to proceed, how to measure progress, and what constitutes success. Al methodology is a jumbled mess. Different methodologies define distinct schools which wage religious wars against each other.
 
-Methods are tools. Use them; don't let them use you. Don't fall for slogans that raise one above the others: "AI research needs to be put on firm foundations;" "Philosophers just talk. AI is about hacking;" "You have to know what's computed before you ask how." To succeed at AI, you have to be good at technical methods and you have to be suspicious of them. For instance, you should be able to prove theorems and you should harbor doubts about whether theorems prove anything. Most good pieces of AI delicately balance several methodologies. For example, you must walk a fine line between too much theory, possibly irrelevant to any real problem, and voluminous implementation, which can represent an incoherent munging of ad-hoc solutions. You are constantly faced with research decisions that divide along a boundary between "neat" and "scruffy." Should you take the time to formalize this problem to some extent (so that, for example, you can prove its intractability), or should you deal with it in its raw form, which ill-defined but closer to reality? Taking the former approach leads (when successful) to a clear, certain result that will usually be either boring or at least will not Address the Issues; the latter approach runs the risk of turning into a bunch of hacks. Any one piece of work, and any one person, should aim for a judicious balance, formalizing subproblems that seem to cry for it while keeping honest to the Big Picture.
+(本节内容薄弱，请贡献)研究方法论定义研究的活动是什么，怎么进行，如何衡量进度以及成功。Al方法一团糟。不同的方法论定义了不同的学校，彼此甚至到了进行宗教战争的地步。
+
+Methods are tools. Use them; don't let them use you. Don't fall for slogans that raise one above the others: "AI research needs to be put on firm foundations;" "Philosophers just talk. AI is about hacking;" "You have to know what's computed before you ask how." 
+
+方法就是工具。使用它们; 而不要让他们使用你。不要迷上口号，认为一个高于其他的观点：“人工智能研究需要在坚实的基础上进行；”“哲学家只是说。AI是关于做的；“，“您必须知道在计算什么你问如何计算前。”
+
+To succeed at AI, you have to be good at technical methods and you have to be suspicious of them. For instance, you should be able to prove theorems and you should harbor doubts about whether theorems prove anything. 
+
+为了在AI成功，你必须要善于技术方法，同时您必须对这些感到怀疑。例如，您应该能够证明定理，同时你应该怀疑定理是否证明任何东西。
+
+Most good pieces of AI delicately balance several methodologies. For example, you must walk a fine line between too much theory, possibly irrelevant to any real problem, and voluminous implementation, which can represent an incoherent munging of ad-hoc solutions. You are constantly faced with research decisions that divide along a boundary between "neat" and "scruffy." 
+
+AI的大多数优秀作品都巧妙地平衡了几种方法。例如，您必须在过多的理论之间走出一条细线，可能与任何理论都无关真正的问题和大量的实现，这可能表示不连贯临时解决方案。您不断面临研究决策沿着“整洁”和“臃肿”之间的边界划分。
+
+Should you take the time to formalize this problem to some extent (so that, for example, you can prove its intractability), or should you deal with it in its raw form, which ill-defined but closer to reality? Taking the former approach leads (when successful) to a clear, certain result that will usually be either boring or at least will not Address the Issues; the latter approach runs the risk of turning into a bunch of hacks. Any one piece of work, and any one person, should aim for a judicious balance, formalizing subproblems that seem to cry for it while keeping honest to the Big Picture.
+
+你应该拿该问题在某种程度上正式化的时间（例如，您可以证明它的难处理性），还是应该以其原始形式处理它（定义不明确但更接近现实？采用前一种方法会（成功时）导致明确，某些结果通常会很无聊或至少不会解决问题；后一种方法会冒着变成一大堆魔改的风险。任何人工作，任何人都应以合理的平衡为目标，子问题似乎为此而哭，同时又对大局保持诚实。
 
 Some work is like science. You look at how people learn arithmetic, how the brain works, how kangaroos hop, and try to figure it out and make a testable theory. Some work is like engineering: you try to build a better problem solver or shape-from algorithm. Some work is like mathematics: you play with formalisms, try to understand their properties, hone them, prove things about them. Some work is example-driven, trying to explain specific phenomena. The best work combines all these and more.
 
+有些工作就像科学。你看人们如何学习算术，大脑如何运作，袋鼠如何跳动，并试图弄清楚并做出可测试的结果理论。有些工作就像工程：您尝试构建更好的问题解决程序或成形算法。有些工作就像数学：您跟 公式打交道，尝试了解它们的特性，对其进行磨练，证明有关它们的东西。一些工作以实例为导向，试图解释具体现象。最好的作品结合了所有这些以及更多。
+
 Methodologies are social. Read how other people attacked similar problems, and talk to people about how they proceeded in specific cases.
+
+方法学是社会的。阅读其他人如何解决类似的问题，并与人们讨论在特定情况下如何进行。
 
 ## Emotional factors 情感因素
 
