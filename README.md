@@ -2,28 +2,49 @@
 
 
    * [How to do Research At the MIT AI Lab](#how-to-do-research-at-the-mit-ai-lab)
-      * [Introduction 引言](#introduction-引言)（完成）
-      * [Reading AI 阅读](#reading-ai-阅读)（完成）
+      * （完成）[Introduction 引言](#introduction-引言)
+      * （完成）[Reading AI 阅读](#reading-ai-阅读)
+      
       阅读AI的知识。罗列了重要期刊和有一些如何阅读的小技巧。
-      * [Getting connected  建立联系](#getting-connected--建立联系)（完成）
+
+      * （完成）[Getting connected  建立联系](#getting-connected--建立联系)
+
       成为AI社区的成员：建立联系一个人脉网络，可以让您随时了解最新情况，您需要阅读的内容。
+
       * [Learrning other fields 学习其他领域](#learrning-other-fields-学习其他领域)
+
       学习与AI相关领域的知识。您将需要一个基本或深入的了解一个或两个er fields 学习其他领域]
+
       * [Notebooks 记笔记](#notebooks-记笔记)
+
       记录研究笔记的
+
       * [Writing 写作](#writing-写作)
+
       写论文和论文；关于撰写和使用评论草稿 以及有关发布的信息。
+
       * [Talks 演讲](#talks-演讲)
+
       做研究演讲的。
-      * [Programming 关于编程](#programming-关于编程)（完成）
+
+      * （完成）[Programming 关于编程](#programming-关于编程)
+
       Al编程可能不同于你已经习惯了的编程
+
       * [Advisors 导师](#advisors-导师)
+
       研究生职业最重要的选择，导师。不同的导师有不同的风格。本节给出了一些寻找适合您的的导师启发式方法。导师是您的资源，本节将告诉你如何使用你的导师。
+
       * [The thesis 论文](#the-thesis-论文)
+
       您的论文或论文将占用您研究生职业大部分时间在。本节提供有关的建议选择主题并避免浪费时间。
-      * [Research methodology 研究方法论](#research-methodology-研究方法论)（完成）
+      
+      * （完成）[Research methodology 研究方法论](#research-methodology-研究方法论)
+
       研究方法论。本节大部分尚未编写。
+
       * [Emotional factors 情感因素](#emotional-factors-情感因素)
+      
       它涉及到情感因素研究过程。它讲述了如何处理失败，如何设定目标，如何摆脱困境，如何避免不安全感，保持自尊心并拥有在这个过程中很有趣。
 
 
